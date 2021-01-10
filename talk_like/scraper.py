@@ -19,4 +19,4 @@ def get_facebook_posts(self:Scraper):
 # Cell
 
 def print_something():
-    print('something')
+    print('something here')
