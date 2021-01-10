@@ -20,7 +20,7 @@ exclude:
   - .idea/
   - .gitignore
   - vendor
- 
+
 exclude: [vendor]
 
 highlighter: rouge
@@ -62,3 +62,6 @@ permalink: pretty
 
 theme: jekyll-theme-cayman
 baseurl: /talk_like/
+
+default_badges:
+  colab: true
